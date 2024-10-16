@@ -124,7 +124,7 @@ awards:
   - title: Project Sadhana winner
     # url: https://www.coursera.org/professional-certificates/google-data-analytics?myLearningTab=IN_PROGRESS
     # certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/RBRUEXDYP0UT
-    date: "2024-8-19"
+    date: 2024-8-19
     awarder: Code Vipasana
     # icon: coursera
     summary: |
